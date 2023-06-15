@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GithubAntiCorruption.Application", "src\GithubAntiCorruption.Application\GithubAntiCorruption.Application.csproj", "{4F962933-3AA9-44A0-ACA8-005DA199FF39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GithubAntiCorruption.API", "src\GithubAntiCorruption.API\GithubAntiCorruption.API.csproj", "{286EFB68-7ECF-433C-A62C-0942519848B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F962933-3AA9-44A0-ACA8-005DA199FF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F962933-3AA9-44A0-ACA8-005DA199FF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F962933-3AA9-44A0-ACA8-005DA199FF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F962933-3AA9-44A0-ACA8-005DA199FF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286EFB68-7ECF-433C-A62C-0942519848B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286EFB68-7ECF-433C-A62C-0942519848B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286EFB68-7ECF-433C-A62C-0942519848B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286EFB68-7ECF-433C-A62C-0942519848B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34348920-F2F1-4C50-A908-E10A772C9326}
+	EndGlobalSection
+EndGlobal
